@@ -12,4 +12,5 @@ CLEAR
 clear
 vi school
 :wq
-
+:#!/bin/bash
+echo "ALX School"
